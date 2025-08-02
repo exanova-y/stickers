@@ -1,2 +1,3 @@
 # stickers
-stickers for signal
+Some gifs and images for my group chats
+
